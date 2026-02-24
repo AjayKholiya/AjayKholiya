@@ -1,5 +1,6 @@
 
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=121217&height=200&section=header&text=AJAY%20KHOLIYA&fontSize=70&fontColor=7f5af0&animation=fadeIn&desc=Blockchain%20Engineer%20|%20Solana%20Architect&descSize=20&descAlignY=75" />
 </p>
