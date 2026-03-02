@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=2cb67d&center=true&vCenter=true&width=600&lines=Building+Scalable+Solana+Programs;Rust+%2B+Anchor+Specialist;Architecting+DeFi+Protocols;Pushing+Web3+Performance+Boundaries" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?
+                                        font=Fira+Code&size=24&duration=3500&pause=1000&color=2cb67d&center=true&vCenter=true&width=600&lines=Building+Scalable+Solana+Programs;Rust+%2B+Anchor+Specialist;Architecting+DeFi+Protocols;Pushing+Web3+Performance+Boundaries" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
